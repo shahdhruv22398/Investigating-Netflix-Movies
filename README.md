@@ -33,5 +33,5 @@ Using Python and Jupyter Notebook, we performed **exploratory data analysis (EDA
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/netflix-analysis.git
-cd netflix-analysis
+git clone https://github.com/shahdhruv22398/Investigating-Netflix-Movies.git
+cd Investigating-Netflix-Movies
